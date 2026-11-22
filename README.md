@@ -18,7 +18,7 @@ Feel free to reach out to me via LinkedIn or email at meghana.sri.satya@gmail.co
 
 #ComputerScience #JavaDeveloper #CloudComputing #DataEnthusiast #TechnologyInnovation #ProblemSolver #OpenToOpportunities
 
-At present I'm,
+At present I'm,Software Engineer at Walmart in Sunnyvale, CA
 
 💻 Graduate Research Assistant - Lamar University
 
