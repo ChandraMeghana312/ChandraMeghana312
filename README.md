@@ -1,6 +1,6 @@
 Hello everyone! 👋
 
-I am Chandra Meghana, a dedicated and highly motivated Computer Science professional based in Dallas, TX. With a passion for technology and a keen interest in problem-solving, I hold a Master of Science in Computer Science from Lamar University, where I specialized in cutting-edge areas such as Cloud Computing, Big Data, and Software Engineering.
+I am Chandra Meghana, a dedicated and highly motivated Computer Science professional based in Sunnyvale, CA. With a passion for technology and a keen interest in problem-solving, I hold a Master of Science in Computer Science from Lamar University, where I specialized in cutting-edge areas such as Cloud Computing, Big Data, and Software Engineering.
 
 During my journey as a Java Developer at Brillfy Technology Inc., I actively contributed to the development of a healthcare application, employing Java 11, Angular 14, and AWS services. My work significantly improved patient record management and ensured seamless healthcare data handling, thereby enhancing patient safety and medical workflow. Additionally, I successfully integrated healthcare APIs, conducting insurance eligibility checks and medication verification for optimized patient care and treatment precision.
 
